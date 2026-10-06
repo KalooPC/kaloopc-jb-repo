@@ -1,28 +1,29 @@
 Origin: KalooPC
 Label: Zen
 Suite: stable
+Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm64 iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: KalooPC JB repo - Zen TikTok mod
-Date: Tue, 06 Oct 2026 19:28:45 UTC
+Date: Tue, 06 Oct 2026 20:05:04 UTC
 MD5Sum:
  dd87e44115f2799149acbe5687d578a5              553 Packages
- 1174fb1279390aefd11a30640732c035              414 Packages.gz
+ bfd5033f412adde69aafa95d42e9f184              414 Packages.gz
  9a49625e3cfa27d68b8595340f571201              440 Packages.bz2
  04384f8bc12d8bcd9dfe9b40df1e2968              488 Packages.xz
  bc1674e5a7d8b4dd6b5f68533a101729              406 Packages.zst
  3b4d144a60d279a4b19eabd1ac429bd0           806820 debs/com.zen.tiktok_1.0.0_iphoneos-arm64.deb
 SHA1:
  afbbcf6c4bb850a4eb1785264a7d531d4fff5f8d              553 Packages
- d385dcd36c3508bc39c9708809b907d1493eade8              414 Packages.gz
+ 78db5430fd929daed4346eea80274f6bb2b7015f              414 Packages.gz
  0824a5c21a94b94d762a15f67b72820aa6f7d54a              440 Packages.bz2
  6b7d4b15876bed6bd346e059313646ae0b86240c              488 Packages.xz
  1d06163744960847217d605ffd8c9fffe2d34745              406 Packages.zst
  b217376a3ecc339ee0a389450ac22b29863723bf           806820 debs/com.zen.tiktok_1.0.0_iphoneos-arm64.deb
 SHA256:
  d743383026392069ab34fd5ddb240311747f3d33cdc3751eb281e442d145c268              553 Packages
- 00e10646205915d66d3b63b23cd8318b964f5073342c242a79bb058187c342c3              414 Packages.gz
+ d7b4e8482d1e64c85048c454e7cc55c8ff9f1212969663cc2439c423cc8fd295              414 Packages.gz
  822cca6c5737e2c2cc75557ab7d14679e49e7eebca63f071df28ce7fef735338              440 Packages.bz2
  e276b6848cb864e0950613cb19857044c8b9ba509f7ea78c6a9eb94eb9d2036c              488 Packages.xz
  8abbf5952dd7cbc88e4b725c90be009ebcf5dd8139e8fc055809de2ac3a5eec6              406 Packages.zst

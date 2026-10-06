@@ -10,7 +10,7 @@ APT-репозиторий для Sileo / Zebra. APT repository for Sileo / Zebr
 
 Добавить в источники (Sileo → Sources → +):
 ```
-https://kaloopc.github.io/KalooPC-s-JB-repo/
+https://kaloopc.github.io/kaloopc-jb-repo/
 ```
 Репозиторий без GPG-подписи — Sileo покажет предупреждение, это нормально.
 
@@ -26,7 +26,7 @@ https://kaloopc.github.io/KalooPC-s-JB-repo/
 
 Add to sources (Sileo → Sources → +):
 ```
-https://kaloopc.github.io/KalooPC-s-JB-repo/
+https://kaloopc.github.io/kaloopc-jb-repo/
 ```
 The repo is unsigned — Sileo will show a warning, that's expected.
 
