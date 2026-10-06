@@ -6,28 +6,31 @@ Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: KalooPC's repo for Jailbreak
-Date: Tue, 06 Oct 2026 22:57:37 UTC
+Date: Tue, 06 Oct 2026 23:09:33 UTC
 MD5Sum:
- fd1ab3dd74d4c569a6c015f319a8220f              553 Packages
- 5744f03042e10777f56ba9f798e82545              414 Packages.gz
- 7c3fbadd94ee37feaf914ee1fae7a89f              442 Packages.bz2
- 7771ff0ec99f687355c977abe6f8e05c              492 Packages.xz
- 7ab337ac2619c64cca31dbd17b959f1c              405 Packages.zst
+ d9a97f696c3e1e8dbcc7cb5e41710073              553 Packages
+ b1d4f091a75729047c464e7a2a63742e              411 Packages.gz
+ b26d8957db1e6a6692889c721840db8a              438 Packages.bz2
+ c42ce2a28c23e95a63132301b9411a44              488 Packages.xz
+ cadb1989c2a0248452afc24955580d70              403 Packages.zst
  03f4873db32bdb10fa1b7590de645294           816660 debs/com.zen.tiktok_1.0.7_iphoneos-arm64.deb
  0002e3b53592d62c1b60695f966b3753           818840 debs/com.zen.tiktok_1.0.8_iphoneos-arm64.deb
+ f9da01139017354c1b64d8da8b06fe23           819142 debs/com.zen.tiktok_1.0.9_iphoneos-arm64.deb
 SHA1:
- 272a6ee0a4cc540717d16bd9edd6334896ebb689              553 Packages
- fa2131923dd272be9bef2685a7a83799848acae9              414 Packages.gz
- 2de689219a457d512b1fbc923ccd1f0c39668d1d              442 Packages.bz2
- 7f3bd995017b8f16a72d8c8713954073fec9e49d              492 Packages.xz
- 315ad56ea3d05c9f712628aea50e252651117e81              405 Packages.zst
+ ce54f4e993152a5eac4f36c2e7de18dfb2eb8e0c              553 Packages
+ da1b5fcfc5529ed91fa9809fbe12131b3870002c              411 Packages.gz
+ 1d94117981663c51795b181033852d8aa5c39d34              438 Packages.bz2
+ 31cac41fd4059a3a502fac3eb007aba3f322da57              488 Packages.xz
+ e966ce0b12cec1aaed17d142f5b0297fe1020e75              403 Packages.zst
  b283859436a575258c22690441ac75fcc3ff403d           816660 debs/com.zen.tiktok_1.0.7_iphoneos-arm64.deb
  ec0ab78be87e2a1f928a19c567efb221ce350b94           818840 debs/com.zen.tiktok_1.0.8_iphoneos-arm64.deb
+ b9273c7fce0a2da00d6794922ab38fd49ef4ded0           819142 debs/com.zen.tiktok_1.0.9_iphoneos-arm64.deb
 SHA256:
- eb9e219b2a13778ccda0152b657ef09626f807496b3d7c49dcf8605b2e87529f              553 Packages
- 6a1a0de609a3e4eef1dd5a3f9dfe88d35f8d206a49bd13a4524595b4784f3803              414 Packages.gz
- 3b7b22d1fa34fdd9e921eb4f19d9d1a20d04a2fe69fd683f92d708babffa5f99              442 Packages.bz2
- e3aab0903f655f3aa93d0ed5bdebd38f5f7c448717b9111e8eeddea94ee76c56              492 Packages.xz
- 4342ac6e3d7437e7b58367aa76e91c0455993342b1c36c0de1db36e16ba293f3              405 Packages.zst
+ 1133d675ac8f04d8dfe965d7e20701e2e50dd55dde7ccd2af61e9a15866ad744              553 Packages
+ 340720455b3a7ae9c1055abe5ee70a84adc7b3b880bc6366b5e88819b680ff56              411 Packages.gz
+ c6397202c4a9d0141ef9a3d2cf1cb90bb03c0ed872f1638e5b9b070c643ae859              438 Packages.bz2
+ e7d7e07d947d1bef453c3bebccd6885828490004022732c6e923db5396dec662              488 Packages.xz
+ 5e29a8dfd97586ab364707e8badf41c94d21ca03368033da30abbd4432af5de0              403 Packages.zst
  ce02f7ff4225b2a069a271e6e80eadbf5021394373c33c9fb996ba1c304701e3           816660 debs/com.zen.tiktok_1.0.7_iphoneos-arm64.deb
  a70aa85f1e2bb09a130673243fddd24cb321d3374257acee4c47bfcfd72e6161           818840 debs/com.zen.tiktok_1.0.8_iphoneos-arm64.deb
+ dac461ea1c7d1cf709f6dac4a33619eea346a6e8d404085570b57627aa0fce73           819142 debs/com.zen.tiktok_1.0.9_iphoneos-arm64.deb
