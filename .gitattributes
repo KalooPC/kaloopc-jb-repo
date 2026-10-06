@@ -1,0 +1,5 @@
+*.deb binary
+Packages -text
+Packages.* -text
+Release -text
+*.sh text eol=lf
