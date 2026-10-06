@@ -14,10 +14,6 @@ https://kaloopc.github.io/kaloopc-jb-repo/
 ```
 Репозиторий без GPG-подписи — Sileo покажет предупреждение, это нормально.
 
-### Что внутри
-
-- **Zen** (`com.zen.tiktok`) — мод TikTok для iPhone (jailbreak-твик): смена региона (SIM + store + локаль + ID устройства), чистка ссылок, скачивание видео/фото/музыки, FLEX-инспектор. Работает в РФ.
-
 ---
 
 ## 🇬🇧 English
@@ -29,14 +25,3 @@ Add to sources (Sileo → Sources → +):
 https://kaloopc.github.io/kaloopc-jb-repo/
 ```
 The repo is unsigned — Sileo will show a warning, that's expected.
-
-### What's inside
-
-- **Zen** (`com.zen.tiktok`) — TikTok mod for iPhone (jailbreak tweak): region switch (SIM + store + locale + device ID), link cleaner, video/photo/music downloads, FLEX inspector. Works in RU.
-
----
-
-## Состав / Contents
-
-- `debs/` — пакеты / packages (Zen).
-- `Packages*`, `Release` — индекс репозитория / repository index.
