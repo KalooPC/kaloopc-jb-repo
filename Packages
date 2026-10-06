@@ -1,14 +1,14 @@
 Package: com.zen.tiktok
-Version: 1.0.6
+Version: 1.0.7
 Architecture: iphoneos-arm64
 Maintainer: Zen
 Installed-Size: 3480
 Depends: ellekit | mobilesubstrate
-Filename: debs/com.zen.tiktok_1.0.6_iphoneos-arm64.deb
-Size: 816506
-MD5sum: b3529bf56e0216d0a0cb91cf1dfe6722
-SHA1: aae29cba05aec68d3a690592b0695a156b7cb443
-SHA256: 024cfbf7b83c6b1d6e167d66bcfc8d4d32424e9c4b622cef4f22ccf425b2568d
+Filename: debs/com.zen.tiktok_1.0.7_iphoneos-arm64.deb
+Size: 816660
+MD5sum: 03f4873db32bdb10fa1b7590de645294
+SHA1: b283859436a575258c22690441ac75fcc3ff403d
+SHA256: ce02f7ff4225b2a069a271e6e80eadbf5021394373c33c9fb996ba1c304701e3
 Section: Tweaks
 Description: TikTok mod for iPhone (jailbreak tweak): region switch, RU fix, downloads. Based on BHTikTok++.
 Author: Zen (based on BHTikTok++ by raul saeed)
