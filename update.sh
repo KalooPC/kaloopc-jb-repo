@@ -44,7 +44,7 @@ def h(algo, path):
     return hh.hexdigest()
 entries = [(p, os.path.getsize(os.path.join(root, p))) for p in files]
 with open(os.path.join(root, 'Release'), 'w') as f:
-    f.write('Origin: KalooPC\nLabel: Zen\nSuite: stable\nVersion: 1.0\nCodename: ios\nArchitectures: iphoneos-arm iphoneos-arm64\nComponents: main\nDescription: KalooPC JB repo - Zen TikTok mod\nDate: %s\n' % time.strftime('%a, %d %b %Y %H:%M:%S UTC', time.gmtime()))
+    f.write('Origin: KalooPC\'s Repo\nLabel: KalooPC\'s Repo\nSuite: stable\nVersion: 1.0\nCodename: ios\nArchitectures: iphoneos-arm iphoneos-arm64\nComponents: main\nDescription: KalooPC\'s repo for Jailbreak\nDate: %s\n' % time.strftime('%a, %d %b %Y %H:%M:%S UTC', time.gmtime()))
     for algo, name in (('md5', 'MD5Sum'), ('sha1', 'SHA1'), ('sha256', 'SHA256')):
         f.write('%s:\n' % name)
         for p, sz in entries:
