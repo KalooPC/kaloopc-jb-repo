@@ -1,11 +1,11 @@
-Origin: KalooPC
-Label: Zen
+Origin: KalooPC's Repo
+Label: KalooPC's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: KalooPC JB repo - Zen TikTok mod
+Description: KalooPC's repo for Jailbreak
 Date: Tue, 06 Oct 2026 20:05:04 UTC
 MD5Sum:
  dd87e44115f2799149acbe5687d578a5              553 Packages
