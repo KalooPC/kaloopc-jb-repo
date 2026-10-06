@@ -6,14 +6,15 @@ REPO_DIR="$(cd "$(dirname "$0")" && pwd)"
 cd "$REPO_DIR"
 echo "== repo: $REPO_DIR"
 
-# 1. sanity: FLEX inside the shipped deb?
-TMPD=$(mktemp -d)
-dpkg-deb -x debs/*.deb "$TMPD"
-DYLIB=$(find "$TMPD" -name Zen.dylib | head -1)
-echo "-- dylib: $DYLIB"
-echo "-- FLEXManager refs: $(strings "$DYLIB" | grep -c FLEXManager)"
-echo "-- sweep refs: $(strings "$DYLIB" | grep -c zenSweepRegionGetters)"
-rm -rf "$TMPD"
+# 1. sanity: expected symbols inside shipped debs
+for DEB in debs/*.deb; do
+  TMPD=$(mktemp -d)
+  dpkg-deb -x "$DEB" "$TMPD"
+  DYLIB=$(find "$TMPD" -name Zen.dylib | head -1)
+  echo "-- $DEB -> $DYLIB"
+  echo "-- FLEXManager refs: $(strings "$DYLIB" | grep -c FLEXManager)"
+  rm -rf "$TMPD"
+done
 
 # 2. Packages index
 if ! command -v dpkg-scanpackages >/dev/null 2>&1; then
